@@ -1,4 +1,5 @@
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNuYWtpMHgybGs0Y21kYngxMmZnamRkMGQzdjczcWx1Z2FkbnVqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNuYWtpMHgybGs0Y21kYngxMmZnamRkMGQzdjczcWx1Z2FkbnVqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ibrahim Sattar
 ======================================================================================================================================
