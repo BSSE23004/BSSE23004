@@ -1,5 +1,4 @@
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="250" />
-
+<img src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="250" />
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ibrahim Sattar
