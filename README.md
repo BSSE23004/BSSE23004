@@ -26,6 +26,12 @@ src="https://img.shields.io/github/followers/BSSE23004?logo=github&style=for-the
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" 
        width="36" height="36" alt="Linux Mint" title="Linux Mint Cinnamon"/>
 </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Bash_Logo_Colored.svg" width="36" height="36" alt="Bash" title="Bash (Linux Shell)"/>
+</a>
+<a href="http://www.wampserver.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/WampServer-logo.svg" width="36" height="36" alt="WampServer" title="WampServer"/>
+</a>
 
 </p>
 
