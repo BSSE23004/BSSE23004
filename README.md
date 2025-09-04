@@ -26,6 +26,7 @@ src="https://img.shields.io/github/followers/BSSE23004?logo=github&style=for-the
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" 
        width="36" height="36" alt="Linux Mint" title="Linux Mint Cinnamon"/>
 </a>
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 
 </p>
 
