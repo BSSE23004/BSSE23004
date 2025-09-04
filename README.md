@@ -45,6 +45,24 @@ src="https://img.shields.io/github/followers/BSSE23004?logo=github&style=for-the
     <img src="https://iconpacks.net/free-icon/whatsapp-103.html" alt="WhatsApp" title="WhatsApp" width="32" height="32" />
   </picture>
 </a>
+<a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
+  <picture>
+    <!-- Dark mode: white/mono Copilot -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-copilot-white-icon.svg" />
+    <!-- Light mode: colored Copilot -->
+    <source media="(prefers-color-scheme: light)" srcset="https://commons.wikimedia.org/wiki/Special:FilePath/GitHub%20Copilot%20logo.svg" />
+    <!-- Fallback -->
+    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/GitHub%20Copilot%20logo.svg" width="32" height="32" alt="GitHub Copilot" title="GitHub Copilot" />
+  </picture>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://commons.wikimedia.org/wiki/Special:FilePath/Visual_Studio_Code_1.35_icon.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://commons.wikimedia.org/wiki/Special:FilePath/Visual_Studio_Code_1.35_icon.svg" />
+    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Visual_Studio_Code_1.35_icon.svg" width="32" height="32" alt="VS Code" title="VS Code" />
+  </picture>
+</a>
+
 
 </p>
 
