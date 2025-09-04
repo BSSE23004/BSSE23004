@@ -29,22 +29,6 @@ src="https://img.shields.io/github/followers/BSSE23004?logo=github&style=for-the
 <a href="https://github.com/features/copilot" target="_blank">
   <img src="https://example.com/vscode-copilot-badge.png" alt="VSCode + Copilot" width="200">
 </a>
-
-
-</p>
-
-### Socials
-
-<p align="left"> <a href="https://www.facebook.com/profile.php?id=100085916855159" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a> <a href="https://www.github.com/BSSE23004" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="http://www.instagram.com/__ibrahim_sattar__" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a> <a href="https://www.linkedin.com/in/ibrahim-sattar-ba1667318/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a>
-<a href="https://wa.me/923216160617" target="_blank" rel="noreferrer">
-  <picture>
-    <!-- Light mode: shows the outlined white logo on dark backgrounds -->
-    <source media="(prefers-color-scheme: light)" srcset="https://iconpacks.net/free-icon/whatsapp-103.html">
-    <!-- Dark mode: fallback to the standard green WhatsApp logo -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://commons.wikimedia.org/wiki/Special:FilePath/WhatsApp.svg">
-    <img src="https://iconpacks.net/free-icon/whatsapp-103.html" alt="WhatsApp" title="WhatsApp" width="32" height="32" />
-  </picture>
-</a>
 <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
   <picture>
     <!-- Dark mode: white/mono Copilot -->
@@ -62,8 +46,20 @@ src="https://img.shields.io/github/followers/BSSE23004?logo=github&style=for-the
     <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Visual_Studio_Code_1.35_icon.svg" width="32" height="32" alt="VS Code" title="VS Code" />
   </picture>
 </a>
+</p>
 
+### Socials
 
+<p align="left"> <a href="https://www.facebook.com/profile.php?id=100085916855159" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a> <a href="https://www.github.com/BSSE23004" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="http://www.instagram.com/__ibrahim_sattar__" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a> <a href="https://www.linkedin.com/in/ibrahim-sattar-ba1667318/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a>
+<a href="https://wa.me/923216160617" target="_blank" rel="noreferrer">
+  <picture>
+    <!-- Light mode: shows the outlined white logo on dark backgrounds -->
+    <source media="(prefers-color-scheme: light)" srcset="https://iconpacks.net/free-icon/whatsapp-103.html">
+    <!-- Dark mode: fallback to the standard green WhatsApp logo -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://commons.wikimedia.org/wiki/Special:FilePath/WhatsApp.svg">
+    <img src="https://iconpacks.net/free-icon/whatsapp-103.html" alt="WhatsApp" title="WhatsApp" width="32" height="32" />
+  </picture>
+</a>
 </p>
 
 ### Badges
