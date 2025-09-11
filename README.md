@@ -9,8 +9,8 @@ Detail-oriented Software Engineer with hands-on experience in full-stack web and
 - 🌍  I'm based in Pakistan
 - ✉️  You can contact me at [ibrahimsattar2006@gmail.com](mailto:ibrahimsattar2006@gmail.com)
 - 🚀  I'm currently working on [web-dev](http://github.com/BSSE23004/WEB-DEV)
-- 🧠  I'm learning React, Server-side rendering
-- ⚡  I think WWIII should happen
+- 🧠  I'm learning React JS
+- ⚡  "You know what that is SIMPLY LOVELY"
 
 <a href="https://www.github.com/BSSE23004" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/BSSE23004?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
