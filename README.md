@@ -10,6 +10,7 @@ Detail-oriented Software Engineer with hands-on experience in full-stack web and
 - ✉️  You can contact me at [ibrahimsattar2006@gmail.com](mailto:ibrahimsattar2006@gmail.com)
 - 🚀  I'm currently working on [web-dev](http://github.com/BSSE23004/WEB-DEV)
 - 🧠  I'm learning React JS
+- 🗣 “Push through the pain! Giving up hurts more" 
 
 <a href="https://www.github.com/BSSE23004" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/BSSE23004?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
