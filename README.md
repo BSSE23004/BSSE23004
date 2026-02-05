@@ -63,14 +63,16 @@ src="https://img.shields.io/github/followers/BSSE23004?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/BSSE23004"><img src="https://github-readme-stats.vercel.app/api?username=BSSE23004&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="BSSE23004's GitHub stats" /></a>
+<a href="http://www.github.com/BSSE23004"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bsse23004&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></a>
 
 <a href="https://github.com/BSSE23004">
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=bsse23004&theme=dark&hide_border=false"/>
 </a>
 
 
-<a href="https://github.com/BSSE23004" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSSE23004&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  
+
+<a href="https://github.com/BSSE23004" align="left"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bsse23004&layout=compact&langs_count=8&theme=dark"/></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BSSE23004/BSSE23004/output/pacman-contribution-graph-dark.svg">
