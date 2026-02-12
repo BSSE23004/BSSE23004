@@ -1,16 +1,16 @@
 <img src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="250" />
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ibrahim Sattar
+# Hi! My name is Ibrahim Sattar
 
 ## Web Developer
 
 Detail-oriented Software Engineer with hands-on experience in full-stack web and desktop development. I am Skilled in MERN stack, PHP/MySQL and REST APIs. Strong in problem-solving, adaptability, and self-learning. Maintains a GitHub portfolio with practical, user-focused solutions, aiming to contribute to impactful, high-efficiency software teams.
 
-- 🌍  I'm based in Pakistan
-- ✉️  You can contact me at [ibrahimsattar2006@gmail.com](mailto:ibrahimsattar2006@gmail.com)
-- 🚀  I'm currently working on [web-dev](http://github.com/BSSE23004/WEB-DEV)
-- 🧠  I'm learning React JS
-- 🗣 “Push through the pain! Giving up hurts more" 
+-  I'm based in Pakistan
+-  You can contact me at [ibrahimsattar2006@gmail.com](mailto:ibrahimsattar2006@gmail.com)
+-  I'm currently working on [web-dev](http://github.com/BSSE23004/WEB-DEV)
+-  I'm learning React JS
+-  Push through the pain! Giving up hurts more 
 
 <a href="https://www.github.com/BSSE23004" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/BSSE23004?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
