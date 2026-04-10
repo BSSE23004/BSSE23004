@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://socialify.git.ci/BSSE23004/BSSE23004/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="BSSE23004" width="700" height="300" />
+</p>
+
 <img src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="250" />
 
 # Hi! My name is Ibrahim Sattar
