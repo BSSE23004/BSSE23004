@@ -78,6 +78,8 @@ src="https://img.shields.io/github/followers/BSSE23004?logo=github&style=for-the
 
 <a href="https://github.com/BSSE23004" align="left"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bsse23004&layout=compact&langs_count=8&theme=dark"/></a>
 
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BSSE23004&theme=github-dark-dimmed&custom_title=Ibrahim's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BSSE23004/BSSE23004/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BSSE23004/BSSE23004/output/pacman-contribution-graph.svg">
