@@ -70,9 +70,9 @@ src="https://img.shields.io/github/followers/BSSE23004?logo=github&style=for-the
 
 <a href="http://www.github.com/BSSE23004"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bsse23004&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></a>
 
-<a href="https://github.com/BSSE23004">
+<!-- <a href="https://github.com/BSSE23004">
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=BSSE23004&theme=dark&hide_border=false"/>
-</a>
+</a> -->
 
 
   
