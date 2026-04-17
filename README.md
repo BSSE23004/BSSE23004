@@ -2,7 +2,8 @@
   <img src="https://socialify.git.ci/BSSE23004/BSSE23004/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="BSSE23004" width="700" height="300" />
 </p>
 
-<img src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="250" />
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BSSE23004&theme=github-dark-dimmed&custom_title=Ibrahim's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 # Hi! My name is Ibrahim Sattar
 
@@ -78,7 +79,6 @@ src="https://img.shields.io/github/followers/BSSE23004?logo=github&style=for-the
 
 <a href="https://github.com/BSSE23004" align="left"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bsse23004&layout=compact&langs_count=8&theme=dark"/></a>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BSSE23004&theme=github-dark-dimmed&custom_title=Ibrahim's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BSSE23004/BSSE23004/output/pacman-contribution-graph-dark.svg">
