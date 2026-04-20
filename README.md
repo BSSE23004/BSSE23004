@@ -1,3 +1,11 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BSSE23004.BSSE23004">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋; I+am+Ibrahim+Sattar....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 <p align="center">
   <img src="https://socialify.git.ci/BSSE23004/BSSE23004/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="BSSE23004" width="700" height="300" />
 </p> 
