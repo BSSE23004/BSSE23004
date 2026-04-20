@@ -12,6 +12,11 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BSSE23004&theme=github-dark-dimmed&custom_title=Ibrahim's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
+<p>Write something nice in my guest book:</p>
+<a href="https://github.com/BSSE23004/BSSE23004/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+</div>
+
 
 # Hi! My name is Ibrahim Sattar
 
