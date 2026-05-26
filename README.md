@@ -87,7 +87,7 @@ src="https://img.shields.io/github/followers/BSSE23004?logo=github&style=for-the
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=BSSE23004&theme=dark&hide_border=false"/>
 </a> -->
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BSSE23004&theme=default)](https://github.com/BSSE23004)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BSSE23004&theme=github_dark)](https://github.com/BSSE23004)
   
 
 <a href="https://github.com/BSSE23004" align="left"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bsse23004&layout=compact&langs_count=8&theme=dark"/></a>
