@@ -88,6 +88,8 @@ src="https://img.shields.io/github/followers/BSSE23004?logo=github&style=for-the
 </a> -->
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BSSE23004&theme=github_dark)](https://github.com/BSSE23004)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BSSE23004&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   
 
 <a href="https://github.com/BSSE23004" align="left"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bsse23004&layout=compact&langs_count=8&theme=dark"/></a>
