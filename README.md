@@ -119,6 +119,29 @@ src="https://img.shields.io/github/followers/BSSE23004?logo=github&style=for-the
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg"
        width="40" height="40" alt="Conda" title="Conda / Anaconda"/>
 </a>
+<!-- FastAPI -->
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"
+       width="40" height="40" alt="FastAPI" title="FastAPI"/>
+</a>
+
+<!-- KNIME -->
+<a href="https://www.knime.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/KNIME_Logo.svg"
+       width="40" height="40" alt="KNIME" title="KNIME"/>
+</a>
+<!-- MediaPipe -->
+<a href="https://mediapipe.dev/" target="_blank" rel="noreferrer">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/mediapipe-color.png"
+       width="40" height="40" alt="MediaPipe" title="MediaPipe"/>
+</a>
+
+<!-- OpenCV -->
+<a href="https://opencv.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
+       width="40" height="40" alt="OpenCV" title="OpenCV"/>
+</a>
+
 
   <a href="https://linuxmint.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" 
