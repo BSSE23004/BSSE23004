@@ -127,12 +127,12 @@ src="https://img.shields.io/github/followers/BSSE23004?logo=github&style=for-the
 
 <!-- KNIME -->
 <a href="https://www.knime.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/KNIME_Logo.svg"
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/knime.svg"
        width="40" height="40" alt="KNIME" title="KNIME"/>
 </a>
 <!-- MediaPipe -->
 <a href="https://mediapipe.dev/" target="_blank" rel="noreferrer">
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/mediapipe-color.png"
+  <img src="https://avatars.githubusercontent.com/u/84833469?s=200&v=4"
        width="40" height="40" alt="MediaPipe" title="MediaPipe"/>
 </a>
 
