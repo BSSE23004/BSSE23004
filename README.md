@@ -27,7 +27,10 @@
 
 ## Web Developer
 
-Detail-oriented Software Engineer with hands-on experience in full-stack web and desktop development. I am Skilled in MERN stack, PHP/MySQL and REST APIs. Strong in problem-solving, adaptability, and self-learning. Maintains a GitHub portfolio with practical, user-focused solutions, aiming to contribute to impactful, high-efficiency software teams.
+Software Engineering undergraduate with hands-on experience in full-stack web development, RESTful APIs, and
+DevOps practices. Skilled in React, Django, Node.js, Python, and cloud-native development. Experienced in
+building scalable applications, containerized deployments using Docker and Kubernetes, and implementing CI/CD
+pipelines. Strong problem-solving mindset with a portfolio of production-ready projects here!
 
 -  I'm based in Pakistan
 -  You can contact me at [ibrahimsattar2006@gmail.com](mailto:ibrahimsattar2006@gmail.com)
@@ -48,6 +51,10 @@ src="https://img.shields.io/github/followers/BSSE23004?logo=github&style=for-the
   <a href="https://linuxmint.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" 
        width="36" height="36" alt="Linux Mint" title="Linux Mint Cinnamon"/>
+</a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg"
+       width="36" height="36" alt="Django" title="Django"/>
 </a>
 <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
   <picture>
