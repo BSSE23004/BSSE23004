@@ -71,6 +71,55 @@ src="https://img.shields.io/github/followers/BSSE23004?logo=github&style=for-the
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
        width="36" height="36" alt="Jenkins" title="Jenkins"/>
 </a>
+
+
+<!-- NumPy -->
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
+       width="40" height="40" alt="NumPy" title="NumPy"/>
+</a>
+
+<!-- Pandas -->
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+       width="40" height="40" alt="Pandas" title="Pandas"/>
+</a>
+
+<!-- PyTorch -->
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
+       width="40" height="40" alt="PyTorch" title="PyTorch"/>
+</a>
+
+<!-- Scikit-learn -->
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+       width="40" height="40" alt="Scikit-learn" title="Scikit-learn"/>
+</a>
+
+<!-- TensorFlow -->
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+       width="40" height="40" alt="TensorFlow" title="TensorFlow"/>
+</a>
+
+<!-- Jupyter -->
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"
+       width="40" height="40" alt="Jupyter" title="Jupyter"/>
+</a>
+<!-- Ollama -->
+<a href="https://ollama.com/" target="_blank" rel="noreferrer">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png"
+       width="40" height="40" alt="Ollama" title="Ollama"/>
+</a>
+
+<!-- Conda -->
+<a href="https://anaconda.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg"
+       width="40" height="40" alt="Conda" title="Conda / Anaconda"/>
+</a>
+
   <a href="https://linuxmint.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" 
        width="36" height="36" alt="Linux Mint" title="Linux Mint Cinnamon"/>
