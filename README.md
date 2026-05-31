@@ -48,6 +48,29 @@ src="https://img.shields.io/github/followers/BSSE23004?logo=github&style=for-the
   <a href="https://postman.com" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="36" height="36" alt="Postman" title="Postman"/>
 </a>
+  <!-- AWS -->
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+       width="36" height="36" alt="AWS" title="Amazon Web Services"/>
+</a>
+
+<!-- Docker -->
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+       width="36" height="36" alt="Docker" title="Docker"/>
+</a>
+
+<!-- Kubernetes -->
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
+       width="36" height="36" alt="Kubernetes" title="Kubernetes"/>
+</a>
+
+<!-- Jenkins -->
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
+       width="36" height="36" alt="Jenkins" title="Jenkins"/>
+</a>
   <a href="https://linuxmint.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" 
        width="36" height="36" alt="Linux Mint" title="Linux Mint Cinnamon"/>
