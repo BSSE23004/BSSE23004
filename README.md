@@ -282,22 +282,46 @@ src="https://img.shields.io/github/followers/BSSE23004?logo=github&style=for-the
 </a>
 </p>
 
-### Badges
+### My GitHub Stats
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/BSSE23004"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bsse23004&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></a>
+<div align="center">
 
-<!-- <a href="https://github.com/BSSE23004">
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=BSSE23004&theme=dark&hide_border=false"/>
-</a> -->
+<table>
+<tr>
+<td>
+<a href="https://github.com/BSSE23004">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bsse23004&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</a>
+</td>
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BSSE23004&theme=github_dark)](https://github.com/BSSE23004)
+<td>
+<a href="https://github.com/BSSE23004">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bsse23004&layout=compact&langs_count=8&theme=dark"/>
+</a>
+</td>
+</tr>
+</table>
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BSSE23004&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  
+<br>
 
-<a href="https://github.com/BSSE23004" align="left"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bsse23004&layout=compact&langs_count=8&theme=dark"/></a>
+<table>
+<tr>
+<td>
+<a href="https://github.com/BSSE23004">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BSSE23004&theme=github_dark"/>
+</a>
+</td>
+
+<td>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BSSE23004&theme=github_dark"/>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
 
 
 <picture>
