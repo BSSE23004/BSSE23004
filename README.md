@@ -257,21 +257,6 @@ src="https://img.shields.io/github/followers/BSSE23004?logo=github&style=for-the
        title="Cursor"/>
 </a>
 
-<a href="https://devin.ai/" target="_blank" rel="noreferrer">
-  <img src="assets/icons/devin.svg"
-       width="50"
-       height="50"
-       alt="Devin"
-       title="Devin"/>
-</a>
-
-<a href="https://antigravity.dev/" target="_blank" rel="noreferrer">
-  <img src="assets/icons/antigravity.svg"
-       width="50"
-       height="50"
-       alt="Antigravity"
-       title="Antigravity"/>
-</a>
 
 </p>
 
