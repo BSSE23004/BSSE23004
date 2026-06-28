@@ -249,6 +249,30 @@ src="https://img.shields.io/github/followers/BSSE23004?logo=github&style=for-the
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-copilot-white-icon.svg" width="50" height="50" alt="GitHub Copilot" title="GitHub Copilot"/>
 </a>
 
+<!-- Cursor -->
+<a href="https://cursor.com/" target="_blank" rel="noreferrer">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png"
+       width="50" height="50"
+       alt="Cursor"
+       title="Cursor"/>
+</a>
+
+<!-- Devin -->
+<a href="https://devin.ai/" target="_blank" rel="noreferrer">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/devin.png"
+       width="50" height="50"
+       alt="Devin"
+       title="Devin"/>
+</a>
+
+<!-- Antigravity -->
+<a href="https://antigravity.dev/" target="_blank" rel="noreferrer">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/antigravity.png"
+       width="50" height="50"
+       alt="Antigravity"
+       title="Antigravity"/>
+</a>
+
 </p>
 
 ---
