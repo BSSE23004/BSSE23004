@@ -257,18 +257,18 @@ src="https://img.shields.io/github/followers/BSSE23004?logo=github&style=for-the
        title="Cursor"/>
 </a>
 
-<!-- Devin -->
 <a href="https://devin.ai/" target="_blank" rel="noreferrer">
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/devin.png"
-       width="50" height="50"
+  <img src="assets/icons/devin.svg"
+       width="50"
+       height="50"
        alt="Devin"
        title="Devin"/>
 </a>
 
-<!-- Antigravity -->
 <a href="https://antigravity.dev/" target="_blank" rel="noreferrer">
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/antigravity.png"
-       width="50" height="50"
+  <img src="assets/icons/antigravity.svg"
+       width="50"
+       height="50"
        alt="Antigravity"
        title="Antigravity"/>
 </a>
